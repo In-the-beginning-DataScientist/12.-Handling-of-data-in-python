@@ -1,0 +1,16 @@
+Use-case (Melbourne House Price Analysis)
+==========================================
+You need to create a model that can predict the price of house based on Car Parking availability, Landsize, BuildingArea, YearBuilt
+
+Perform the following tasks:
+
+1. Loading the data (pandas)
+2. Seperate the data with features and label.
+3. Check for missing data and repair the same
+4. Check for categorical data and repair the same
+
+
+
+The usual  car parking alloted to each house as per govt policy is 1 NaN
+The Minimum build area for the building as per govt norms is 80 NaN
+Maximums buildings as per the census survey was built in year 2000. NaN 
